@@ -1,3 +1,5 @@
+# CS210ProgrammingFinalProject
+
 Summarize the project and what problem it was solving.
 
 The purpose of this program was to provide a method for a grocery store to track the inventory of items that were purchased on a given day based on a list of raw data that generated the name of the item at the time it was purchased. The problem it was solving is that the items were sorted by time of purchase with no timestamp, so there was no easy way to reference the data, it was disorganized. The program sorts the items and provides an easy to read the count in both numerical and graphical representations. It also allows the user to search for a count by item.
