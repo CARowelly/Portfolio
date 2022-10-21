@@ -1,4 +1,5 @@
 SoftwareTestAutomationQA
+
 How can I ensure that my code, program, or software is functional and secure?
 
 I can ensure that my code, program, or software is functional and secure by unit testing them completely and thoroughly. I will know my unit tests are complete and thorough when I have 100% code coverage in three categories - statement coverage, branch coverage, and decision coverage.
