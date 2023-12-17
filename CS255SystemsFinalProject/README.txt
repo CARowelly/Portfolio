@@ -16,7 +16,7 @@ In the future I will be sure to give more attention to consideration of other fa
 •	How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 I think I was a little myopic when considering user needs. 
 I was so focused on programming functionality, that I often failed to consider user interaction that occurs outside the program. 
-Taking human factors and interactions in the phyisical world will receive more of my attention in the future.
+Taking human factors and interactions in the physical world will receive more of my attention in the future.
 
 •	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 I have been Object Model focused when designing software. 
